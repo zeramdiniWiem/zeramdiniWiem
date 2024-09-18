@@ -3,15 +3,15 @@
 Hello! I'm **Wiem Zeramdini**, a 4th-year software engineering student specialized in **Software Engineering (Génie Logiciel)**. I am organized, adaptable, and always ready to learn and take initiatives in new situations. 🚀
 
 ## 🌟 Skills & Expertise
-- **Software Design**: UML
-- **Programming Languages**: Java, Python, PHP
-- **Web Development**: HTML, CSS, Bootstrap, Angular, Node.js
-- **Databases**: MySQL, MongoDB
-- **Artificial Intelligence**: Machine Learning, Deep Learning
-- **Productivity Tools**: Microsoft Office, LaTeX
-- **Development Environments**: VS Code, NetBeans, Jupyter, Google Colab
-- **Version Control**: Git, GitHub
-- **Methodologies**: Agile (Scrum)
+- 🛠️ **Software Design**: UML
+- 💻 **Programming Languages**: Java, Python, PHP
+- 🌐 **Web Development**: HTML, CSS, Bootstrap, Angular, Node.js
+- 🗄️ **Databases**: MySQL, MongoDB
+- 🤖 **Artificial Intelligence**: Machine Learning, Deep Learning
+- 📊 **Productivity Tools**: Microsoft Office, LaTeX
+- 👨‍💻 **Development Environments**: VS Code, NetBeans, Jupyter, Google Colab
+- 🔄 **Version Control**: Git, GitHub
+- 🌀 **Methodologies**: Agile (Scrum)
 
 ## 💼 Experience
 
@@ -38,9 +38,9 @@ Hello! I'm **Wiem Zeramdini**, a 4th-year software engineering student specializ
 - **English**: Intermediate
 
 ## 📫 Get in touch!
-- **Email**: wiem.zeramdini@gmail.com
-- **Phone**: +216 99329514
-- **Location**: Sayada, Monastir, Tunisia
+- 📧 **Email**: wiem.zeramdini@gmail.com
+- 📱 **Phone**: +216 99329514
+- 📍 **Location**: Sayada, Monastir, Tunisia
 
 Let's connect and collaborate on exciting projects! 😊
 
