@@ -1,4 +1,4 @@
-# 👩‍💻 Wiem Zeramdini - Software Engineering Student
+# 👩‍💻 Wiem Zeramdini - Software Engineering Student and researcher
 
 Hello! I'm **Wiem Zeramdini**, a **5th-year Software Engineering student** specializing in **Software Engineering (Génie Logiciel)**. I am organized, adaptable, and always ready to learn and take initiatives in new situations. 🚀 I am also a **researcher** with a focus on **Intelligent Information Systems** and have experience in **political opinion analysis**.
 
