@@ -1,6 +1,6 @@
 # 👩‍💻 Wiem Zeramdini - Software Engineering Student
 
-Hello! I'm **Wiem Zeramdini**, a 4th-year software engineering student specialized in **Software Engineering (Génie Logiciel)**. I am organized, adaptable, and always ready to learn and take initiatives in new situations. 🚀
+Hello! I'm **Wiem Zeramdini**, a **5th-year Software Engineering student** specializing in **Software Engineering (Génie Logiciel)**. I am organized, adaptable, and always ready to learn and take initiatives in new situations. 🚀 I am also a **researcher** with a focus on **Intelligent Information Systems** and have experience in **political opinion analysis**.
 
 ## 🌟 Skills & Expertise
 - 🛠️ **Software Design**: UML
@@ -14,15 +14,17 @@ Hello! I'm **Wiem Zeramdini**, a 4th-year software engineering student specializ
 - 🌀 **Methodologies**: Agile (Scrum)
 
 ## 💼 Experience
-
-- **Final Year Internship** - _ANIWEL soft, Monastir_ (March 2020 - May 2020)
-- **Internship** - _Ecole Supérieure Polytechnique Privée de Monastir_ (Since September 2023)
+- **Summer Internship** - _Société Mobilité, Monastir_ (June 2024 - August 2024)
+- **Final Year Internship** - _ANIWEL soft, Monastir_ (March 2020 - May 2020) 
 - **Technician Internship** - _Monastir International Airport_ (August 2019 - September 2019)
 - **Worker Internship** - _Monastir International Airport_ (August 2018 - September 2018)
 
 ## 🎓 Education
 
 - **Master's in Intelligent Information Systems** - _Institut Supérieur de l'Informatique et de Gestion, Kairouan (ISIGK)_ (Since September 2020)
+-     \textit{Master's Thesis}: \emph{Analysis of Political Opinions for Predicting Political Orientations (US Election 2020 Tweets Analysis)} \\
+    \textit{Conference}: Accepted article at **WorldCIST Conference (Class C)**
+
 - **Bachelor's in Computer Science** - _ISIGK_ (2017 - 2020)
 
 ## 🏅 Competitions & Involvement
