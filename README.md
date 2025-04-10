@@ -23,7 +23,7 @@ Hello! I'm **Wiem Zeramdini**, a **5th-year Software Engineering student** speci
 
 - **Master's in Intelligent Information Systems** - _Institut Supérieur de l'Informatique et de Gestion, Kairouan (ISIGK)_ (Since September 2020)
 - Title: Analysis and classification of Political Opinions for Predicting Political Orientations (US Election 2020 Tweets Analysis)}
-- Accepted article at **WorldCIST Conference (Class C)**
+- Accepted article (Unpublished) at **WorldCIST Conference (Class C)**
 - **Bachelor's in Computer Science** - _ISIGK_ (2017 - 2020)
 
 ## 🏅 Competitions & Involvement
